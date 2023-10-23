@@ -1,0 +1,56 @@
+/* Write your CSS here */
+
+.bg-div {
+  display: flex;
+
+  color: #ffffff;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  height: 60vh;
+}
+
+.bg {
+  background-color: #161625;
+  padding: 20px;
+  color: #ffffff;
+  min-height: 100vh;
+}
+
+.header {
+  align-self: flex-start;
+  display: flex;
+  flex-direction: column;
+}
+
+.h1 {
+  font-size: 20px;
+}
+
+img {
+  width: 60px;
+  height: 60px;
+  margin-right: 10px;
+}
+
+.failure-img {
+  width: 50%;
+  height: 50%;
+  align-self: center;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+}
+
+.failure-div {
+  display: flex;
+  width: 100vw;
+  justify-content: center;
+}
+
+.grap-div {
+  background-color: #1c1c2b;
+  padding: 30px;
+}
